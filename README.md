@@ -65,16 +65,6 @@ The main objective is to analyze bike sales revenue and customer demographics to
 - Proximity is a critical factor in purchase likelihood
 - Short commute distances correlate with bike purchases
 
-## 📁 File Structure
-
-```
-Bikes-Dekho-Sales-Analysis/
-├── README.md                    # Project documentation
-├── Raw_Data.xlsx               # Raw customer dataset
-├── Sales_Analysis_Dashboard.xlsx # Excel dashboard with analysis
-└── Data_Dictionary.xlsx         # Field descriptions and data types
-```
-
 ## 🛠️ Tools & Technologies
 
 - **Microsoft Excel** - Data cleaning, modeling, and analysis
@@ -82,8 +72,6 @@ Bikes-Dekho-Sales-Analysis/
 - **Pivot Charts** - Data visualization
 - **Slicers** - Interactive filtering by multiple dimensions
 - **Formulas** - KPI calculations and helper columns
-
-## 📈 Dashboard Components
 
 ### KPI Cards
 - Total Revenue
@@ -132,27 +120,5 @@ This project demonstrates:
 - Customer segmentation analysis
 - Data-driven decision making
 - Business intelligence fundamentals
-
-## 📝 Future Enhancements
-
-- Predictive modeling for customer lifetime value
-- Seasonal trend analysis
-- Cohort analysis by acquisition date
-- Geographic mapping of sales
-- Machine learning for churn prediction
-
-## 📧 Contact
-
-**Author**: Vishnu (Vishnu27122004)
-**LinkedIn**: [Your LinkedIn Profile]
-**Email**: [Your Email]
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-**Last Updated**: January 2026
 
 *For questions or collaboration opportunities, please reach out!*
